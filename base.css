@@ -34,6 +34,10 @@
   box-sizing: border-box;
 }
 
+a {
+  color: hsl(var(--body__color__900));
+}
+
 img,
 svg,
 video,
